@@ -1,7 +1,11 @@
 # [Live Preview](https://calcit-a3af7.firebaseapp.com/)
 
 
-![space](/src/assets/icons/1.png "calcit")   
+![space](/public/1.png "calcit")  
+
+
+![space](/public/2.png "calcit")  
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
